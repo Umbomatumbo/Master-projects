@@ -27,4 +27,4 @@ Three individual projects and various laboratories regarding ML course.
 ## Colleagues involved in the projects
 [@petrovicdavid](https://github.com/petrovicdavid)
 
-[@Umbomatumbo](https://github.com/Umbomatumbo)
+[@fedeluis](https://github.com/fedeluis)
